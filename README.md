@@ -1,3 +1,3 @@
 # cardshuffle
 
-live: https://sdhakal11.github.io/cardshuffle-sdhakal.io/
+live: https://sdhakal11.github.io/cardshuffler-sdhakal.io/
